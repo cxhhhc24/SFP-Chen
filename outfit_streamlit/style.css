@@ -1,0 +1,20 @@
+body {
+    font-family: "Times New Roman", serif;
+    text-align: center;
+    background-image: url('/static/blueberry_bg.jpg'); /* 你可以换成实际背景图路径 */
+    background-size: cover;
+    color: #1A1A2E;
+}
+
+h1 {
+    font-size: 36px;
+    color: #4A90E2;
+}
+
+button {
+    font-size: 18px;
+    background-color: #5B9BD5;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
